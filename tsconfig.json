@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "es2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "moduleResolution": "Node",
+    "noUncheckedIndexedAccess": true,
+    "checkJs": true,
+    "outDir": "./temp"
+  },
+  "include": ["src", "rollup.config.js", "node_modules/@violentmonkey/types", "scrap.ts"]
+}

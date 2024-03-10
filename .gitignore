@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+
+**/testing.*.*
+
+scrap.ts
+to-do.md
